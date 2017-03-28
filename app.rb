@@ -7,7 +7,7 @@ puts 'in the post method'
 end
 
 post '/hello' do
-  puts 'in the post method'
+  puts 'in this the post method'
   '<h1 style="font-size:400%;"> Greetings!</h1>'
 
 end
